@@ -1,6 +1,3 @@
-### 提示：UUID请使用UUID生成器，推荐[UUID Generator](https://www.uuidgenerator.net/)
-
-### 提醒：滥用可能导致账户被删除！！！ 
 
 ## 服务端创建操作流程 
 0）给本项目个stars
